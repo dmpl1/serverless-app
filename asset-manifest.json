@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/dmpl1/serverless-app.git/static/css/main.073c9b0a.css",
-    "main.js": "/dmpl1/serverless-app.git/static/js/main.7cbea0d0.js",
-    "static/js/787.fdbddb65.chunk.js": "/dmpl1/serverless-app.git/static/js/787.fdbddb65.chunk.js",
-    "static/media/logo.svg": "/dmpl1/serverless-app.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/dmpl1/serverless-app.git/index.html",
-    "main.073c9b0a.css.map": "/dmpl1/serverless-app.git/static/css/main.073c9b0a.css.map",
-    "main.7cbea0d0.js.map": "/dmpl1/serverless-app.git/static/js/main.7cbea0d0.js.map",
-    "787.fdbddb65.chunk.js.map": "/dmpl1/serverless-app.git/static/js/787.fdbddb65.chunk.js.map"
+    "main.css": "/serverless-app/static/css/main.073c9b0a.css",
+    "main.js": "/serverless-app/static/js/main.1cb18b8b.js",
+    "static/js/787.fdbddb65.chunk.js": "/serverless-app/static/js/787.fdbddb65.chunk.js",
+    "static/media/logo.svg": "/serverless-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/serverless-app/index.html",
+    "main.073c9b0a.css.map": "/serverless-app/static/css/main.073c9b0a.css.map",
+    "main.1cb18b8b.js.map": "/serverless-app/static/js/main.1cb18b8b.js.map",
+    "787.fdbddb65.chunk.js.map": "/serverless-app/static/js/787.fdbddb65.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.7cbea0d0.js"
+    "static/js/main.1cb18b8b.js"
   ]
 }
